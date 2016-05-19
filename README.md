@@ -9,5 +9,6 @@ We have included following features in universal recommender -
 3) Code for blacklist particular items, blacklist items o the basis of property are merged together
 4) Created price range filter and merged it with date range filter code
 5) Return item properties in result
+6) exlcude items from recommendation whose pictureURL is empty
 
-We are working on making it more generic
+We are working on making it more generic.
