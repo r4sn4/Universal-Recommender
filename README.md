@@ -1,6 +1,6 @@
 
-Contributors 
-Rasna - https://github.com/r4sn4/
+Contributors  --> 
+Rasna - https://github.com/r4sn4/  and 
 Ambuj - https://github.com/Ambuj10
 
 We have included following features in universal recommender -
